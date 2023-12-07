@@ -1,0 +1,28 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.8  # You can specify your desired Python version here
+  - blinker=1.4
+  - certifi=2022.5.18
+  - charset-normalizer
+  - click
+  - colorama=0.4.4
+  - Flask
+  - Flask-Cors=3.0.10
+  - Flask-SQLAlchemy=2.5.1
+  - greenlet
+  - idna=3.3
+  - itsdangerous
+  - Jinja2=3.1.2
+  - MarkupSafe=2.1.1
+  - numpy=1.22.3
+  - pandas=1.4.2
+  - psycopg2=2.9.3
+  - python-dateutil=2.8.2
+  - pytz=2022.1
+  - requests=2.27.1
+  - six=1.16.0
+  - SQLAlchemy
+  - urllib3=1.26.9
+  - Werkzeug

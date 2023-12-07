@@ -1,0 +1,10 @@
+.venv
+__pycache__
+*.pyc
+*.pkl
+.idea
+.ipynb_checkpoints
+.csv
+env
+venv
+annoy
